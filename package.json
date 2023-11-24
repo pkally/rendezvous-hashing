@@ -1,0 +1,19 @@
+{
+  "name": "rendezvous-hashing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkally/rendezvous-hashing.git"
+  },
+  "author": "pkally",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkally/rendezvous-hashing/issues"
+  },
+  "homepage": "https://github.com/pkally/rendezvous-hashing#readme"
+}
